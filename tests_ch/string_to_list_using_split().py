@@ -7,3 +7,6 @@ mystring3 = mystring.split(',')
 
 print(mystring2)
 print(mystring3)
+
+s2 = 'python'
+print(s2.split())
